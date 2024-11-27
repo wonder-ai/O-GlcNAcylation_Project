@@ -52,12 +52,12 @@ For the analysis, RNA-seq gene expression data must be downloaded and organized 
 ```
 data/
 └── TCGA_GeneExpression/
-    ├── BRCA/
+    ├── Kidney/
     │   └── gene_expression/
     │       ├── sample_1.tsv
     │       ├── sample_2.tsv
     │       └── ...
-    ├── COAD/
+    ├── Lung/
     │   └── gene_expression/
     │       ├── sample_1.tsv
     │       ├── sample_2.tsv
