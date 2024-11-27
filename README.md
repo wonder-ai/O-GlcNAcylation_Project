@@ -1,6 +1,6 @@
 # Analysis of O-GlcNAcylation Dysregulation in Cancer
 
-This repository contains Jupyter notebooks to investigate the impact of O-GlcNAcylation dysregulation on cancer through data-driven methodologies. The analysis uses gene expression data from TCGA (The Cancer Genome Atlas) to quantify dysregulation and study its implications on downstream protein networks.
+This repository contains Jupyter notebooks to investigate the impact of O-GlcNAcylation dysregulation on cancer through data-driven methodologies. The analysis uses gene expression data from TCGA (The Cancer Genome Atlas) to quantify dysregulation.
 
 ---
 
@@ -78,7 +78,7 @@ data/
    Use `3_simulation_runs.ipynb` to simulate data and compare different measures of regulation.
 
 4. **Modeling**:  
-   Run `4_modeling.ipynb` for real-world application of the methodology to TCGA datasets.
+   Run `4_modeling.ipynb` for application of the methodology to TCGA datasets.
 
 ---
 
