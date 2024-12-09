@@ -34,7 +34,7 @@ This repository contains Jupyter notebooks to investigate the impact of O-GlcNAc
 For the analysis, RNA-seq gene expression data must be downloaded and organized as follows:
 
 1. Go to the [GDC Portal](https://portal.gdc.cancer.gov/).
-2. Select the cancer type of interest (e.g., BRCA, COAD, LUAD).
+2. Select the cancer type of interest by tissue (e.g., Breast, Blood and Bone Marrow, etc).
 3. Under the **Repository**, apply the following filters:
    - **Experimental Strategy**: RNA-seq
    - **Data Category**: Transcriptome Profiling
